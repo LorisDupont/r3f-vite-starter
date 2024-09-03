@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Goldman:wght@400;700&family=Nova+Square&family=Rubik+Mono+One&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 #root {
   width: 100vw;
   height: 100vh;
